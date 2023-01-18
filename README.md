@@ -4,4 +4,4 @@ Since he was aware that childbed fever was the reason why women giving birth die
 # Technologies used
 * Python
 * Panda
-8 Matplotlib
+* Matplotlib
